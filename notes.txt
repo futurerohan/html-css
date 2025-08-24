@@ -24,7 +24,8 @@ hyperlink:
 rest reference here:
 https://docs.google.com/presentation/d/1z7mrIg_M6pn828sbvcJ5XjiK3xpgjC-n1lihA4B-yzM/edit?slide=id.g4c10bfa4b6_0_457#slide=id.g4c10bfa4b6_0_457
 
-an element can have only one id (e.g. ssn)
-an element can have multiple classes (e.g. many classes in school)
-  can use same class on multiple elements
+
+attributes
+class (many elements)
+id (one element)
 
