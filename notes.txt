@@ -1,0 +1,30 @@
+<!DOCTYPE html> tells web browser to use latest html version
+
+HTML Structures: Opening / Closing tags
+e.g. <head> </head>
+
+<html> 
+  this is the root, which contains all html elements 
+</html>
+
+in root (<html>):
+ - <head> : contains meta data - things not displayed but help website function (e.g. browser <title>, stylesheets)
+ - <body> : contains <div>, <h1-3>, <p>, <span>
+
+
+hyperlink: 
+   attribute name
+     v 
+ <a href = "link here" > content </a>
+               ^ value
+
+<img src="foo.gif" />  *don't have content so no need for closing tags
+<img src="images/pusheen.gif"/>
+
+rest reference here:
+https://docs.google.com/presentation/d/1z7mrIg_M6pn828sbvcJ5XjiK3xpgjC-n1lihA4B-yzM/edit?slide=id.g4c10bfa4b6_0_457#slide=id.g4c10bfa4b6_0_457
+
+an element can have only one id (e.g. ssn)
+an element can have multiple classes (e.g. many classes in school)
+  can use same class on multiple elements
+
